@@ -1,1 +1,5 @@
 BennieTracker/obj/*
+BennieTracker/bin/*
+.vs/*
+data/config.json
+BennieTracker/Properties/launchSettings.json
